@@ -722,7 +722,7 @@ PlayerSettings:
     UNet: 1
     Unity_Ads: 0
   facebookSdkVersion: 7.9.4
-  apiCompatibilityLevel: 2
+  apiCompatibilityLevel: 3
   cloudProjectId: 2236e1dd-2a12-481b-9619-6417e260ba6a
   projectName: VR_Lab1Scene
   organizationId: ayushisri98
